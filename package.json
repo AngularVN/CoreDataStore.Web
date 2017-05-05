@@ -30,7 +30,7 @@
     "@angular/platform-browser-dynamic": "^4.0.2",
     "@angular/router": "^4.0.2",
     "@angular/upgrade": "^4.0.2",
-    "angular2-google-maps": "^0.16.0",
+    "angular2-google-maps": "^0.17.0",
     "angular2-toaster": "^3.0.1",
     "core-js": "2.4.1",
     "es6-shim": "^0.35.0",
